@@ -1,10 +1,46 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "issuesData" : [
+    {
+      "id": "1",
+      "name": "Love Challenge!",
+      "date": "20150705T000001+0900",
+      "event": "落とし神 Fall in Love FLAG 4.0",
+      "specSize": "B5",
+      "specPage": "モノクロ30頁",
+      "specPress": "50",
+      "specPressAdd": "20",
+      "specPrice": "500",
+      "class": "0",
+      "theme": "猪突猛進結桂本",
+      "remarks": ""
+    },
+    {
+      "id": "2",
+      "name": "健全",
+      "date": "20150705T000002+0900",
+      "event": "落とし神 Fall in Love FLAG 4.0",
+      "specSize": "160cm × 50cm",
+      "specPage": "",
+      "specPress": "20",
+      "specPressAdd": "",
+      "specPrice": "3500",
+      "class": "0",
+      "theme": "五位堂結 抱き枕カバー",
+      "remarks": ""
+    },
+    {
+      "id": "3",
+      "name": "My Sweet Angels",
+      "date": "20160504T000001+0900",
+      "event": "落とし神 Fall in Love FLAG 4.0",
+      "specSize": "A4",
+      "specPage": "フルカラ24頁",
+      "specPress": "50",
+      "specPressAdd": "20",
+      "specPrice": "800",
+      "class": "0",
+      "theme": "けいおん中心よろずイラスト本",
+      "remarks": "「PULP FICTION STORE」名義"
+    }
+  ]
 }
-
