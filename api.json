@@ -1,45 +1,59 @@
 {
   "issuesData" : [
     {
-      "id": "1",
+      "id": 1,
       "name": "Love Challenge!",
-      "date": "20150705T000001+0900",
-      "event": "落とし神 Fall in Love FLAG 4.0",
-      "specSize": "B5",
-      "specPage": "モノクロ30頁",
-      "specPress": "50",
-      "specPressAdd": "20",
-      "specPrice": "500",
-      "class": "0",
-      "theme": "猪突猛進結桂本",
+      "published_at": "20150705T000001+0900",
+      "event": {
+        "name": "落とし神 Fall in Love FLAG 4.0"
+      },
+      "size": "B5",
+      "color_type": "モノクロ",
+      "page": 30,
+      "circulations": [
+        50,
+        20
+      ],
+      "price": 500,
+      "age_classification": "All",
+      "description": "猪突猛進結桂本",
       "remarks": ""
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "健全",
-      "date": "20150705T000002+0900",
-      "event": "落とし神 Fall in Love FLAG 4.0",
-      "specSize": "160cm × 50cm",
-      "specPage": "",
-      "specPress": "20",
-      "specPressAdd": "",
-      "specPrice": "3500",
-      "class": "0",
-      "theme": "五位堂結 抱き枕カバー",
+      "published_at": "20150705T000002+0900",
+      "event": {
+        "name": "落とし神 Fall in Love FLAG 4.0"
+      },
+      "size": "160cm × 50cm",
+      "color_type": null,
+      "page": null,
+      "circulations": [
+        20
+      ],
+      "price": 3500,
+      "age_classification": "All",
+      "description": "五位堂結 抱き枕カバー",
       "remarks": ""
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "My Sweet Angels",
-      "date": "20160504T000001+0900",
-      "event": "落とし神 Fall in Love FLAG 4.0",
-      "specSize": "A4",
-      "specPage": "フルカラ24頁",
-      "specPress": "50",
-      "specPressAdd": "20",
-      "specPrice": "800",
-      "class": "0",
-      "theme": "けいおん中心よろずイラスト本",
+      "published_at": "20160504T000001+0900",
+      "event": {
+        "name": "落とし神 Fall in Love FLAG 4.0"
+      },
+      "size": "A4",
+      "color_type": "フルカラ",
+      "page": "24",
+      "circulations": [
+        50,
+        20
+      ],
+      "price": 800,
+      "age_classification": "All",
+      "description": "けいおん中心よろずイラスト本",
       "remarks": "「PULP FICTION STORE」名義"
     }
   ]
